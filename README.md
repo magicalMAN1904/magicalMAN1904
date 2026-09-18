@@ -30,7 +30,7 @@ Java • JavaScript • React • Spring Boot • MySQL • Git • GitHub
 
 ## 🌱 Currently Learning
 
-TypeScript • AWS • System Design • Networking
+Docker • AWS • System Design • Networking
 
 ## 🎯 Career Interests
 
